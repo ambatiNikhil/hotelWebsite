@@ -1,0 +1,302 @@
+
+    [
+      {
+        "hotelName": "Taj Hotel",
+        "location": "Hyderabad",
+        "id" : 1,
+        "numberOfRooms": 150,
+        "price": 5000,
+        "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUga-HLh60y5UNTr-7CT7Ukie8gaQYyFcwA&usqp=CAU",
+        "similarPicsRelatedToFacilities": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SbxwnYVSHLyDhCOiv6Fxq-XwfkSStTAMFw&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqUi-xBRkg0SRtRm6h90JxESMnjh43_TiRQ&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjElLjyMuNiX4nmJ4oZK7b8l-CK1neM79X6Q&usqp=CAU",
+          "https://cdn.sanity.io/images/ocl5w36p/production/a444edc3996a69d942a0750048f0ef0528cf4685-3840x1861.jpg?w=480&auto=format&dpr=2"
+        ],
+        "hotelDescription": "Located in the heart of Hyderabad, the Hyderabad Grand Hotel offers luxurious accommodations with modern amenities. Guests can enjoy an on-site restaurant, spa, and conference facilities."
+      },
+      {
+        "hotelName": "Novotel",
+        "location": "Hyderabad",
+        "id" : 2,
+        "numberOfRooms": 200,
+        "price": 4500,
+        "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EQboebQQqnLDVe7COB9sb8kCsPsaoLFYhg&usqp=CAU",
+        "similarPicsRelatedToFacilities": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM7V6q0U84tZxsHCIjnZGjB4KPG9UAVFL4nQ&usqp=CAU",
+          "https://content.skyscnr.com/available/1394233570/1394233570_WxH.jpg",
+          "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/07/03135610/NHCC_Superior-Twin-Room-370x276.jpg",
+          "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/05/13104510/NHCC_Junior-Suite-370x276.jpg"
+        ],
+        "hotelDescription": "Delhi Comfort Inn provides a serene environment in the bustling city of Delhi. The hotel features comfortable rooms, a fitness center, and easy access to major tourist attractions."
+      },
+      {
+        "hotelName": "Hotel Manoher",
+        "location": "Delhi",
+        "id" : 3,
+        "numberOfRooms": 100,
+        "price": 6000,
+        "imageOfHotel": "https://pix10.agoda.net/hotelImages/43815/-1/b62af9df057069dddb4f13a674a5bdf9.jpg?ca=9&ce=1&s=702x392",
+        "similarPicsRelatedToFacilities": [
+          "https://www.hyderabadzone.com/wp-content/uploads/2022/10/ITC-Kakatiya.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLZ7pSYOPLQYeWHzPXwD1VJNkDRsKebJFRw&usqp=CAU",
+          "https://content.skyscnr.com/available/1394233570/1394233570_WxH.jpg",
+          "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/07/03135610/NHCC_Superior-Twin-Room-370x276.jpg"
+        ],
+        "hotelDescription": "Experience the beauty of the Chennai coast at Chennai Seaside Resort. The resort offers beachfront views, an outdoor pool, and exquisite dining options."
+      },
+      {
+        "hotelName": "Kerala Backwater Resort",
+        "location": "Kerala",
+        "id" : 4,
+        "numberOfRooms": 80,
+        "price": 7000,
+        "imageOfHotel": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fa/07/99/the-panoramic-getaway.jpg?w=1200&h=-1&s=1",
+        "similarPicsRelatedToFacilities": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+        ],
+        "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+      },
+      {
+        "hotelName": "ITC Kohinoor",
+        "location": "Hyderabad",
+        "id" : 5,
+        "numberOfRooms": 150,
+        "price": 5000,
+        "imageOfHotel": "https://www.shapoorjipallonji.com/assets/Desktop/Projects/640x640/itc-kohenur-640x640.jpg",
+        "similarPicsRelatedToFacilities": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SbxwnYVSHLyDhCOiv6Fxq-XwfkSStTAMFw&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqUi-xBRkg0SRtRm6h90JxESMnjh43_TiRQ&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjElLjyMuNiX4nmJ4oZK7b8l-CK1neM79X6Q&usqp=CAU",
+          "https://cdn.sanity.io/images/ocl5w36p/production/a444edc3996a69d942a0750048f0ef0528cf4685-3840x1861.jpg?w=480&auto=format&dpr=2"
+        ],
+        "hotelDescription": "Located in the heart of Hyderabad, the Hyderabad Grand Hotel offers luxurious accommodations with modern amenities. Guests can enjoy an on-site restaurant, spa, and conference facilities."
+      },
+      {
+        "hotelName": "Kutti Resort",
+        "location": "Kerala",
+        "id" : 6,
+        "numberOfRooms": 80,
+        "price": 7000,
+        "imageOfHotel": "https://www.backpackerswanderlust.com/wp-content/uploads/2018/07/DSC_8740.jpg",
+        "similarPicsRelatedToFacilities": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+        ],
+        "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+      },
+      {
+        "hotelName": "Hotel Radison",
+        "location": "Delhi",
+        "id" : 7,
+        "numberOfRooms": 100,
+        "price": 6000,
+        "imageOfHotel": "https://pix10.agoda.net/hotelImages/43815/-1/b62af9df057069dddb4f13a674a5bdf9.jpg?ca=9&ce=1&s=702x392",
+        "similarPicsRelatedToFacilities": [
+          "https://www.hyderabadzone.com/wp-content/uploads/2022/10/ITC-Kakatiya.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLZ7pSYOPLQYeWHzPXwD1VJNkDRsKebJFRw&usqp=CAU",
+          "https://content.skyscnr.com/available/1394233570/1394233570_WxH.jpg",
+          "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/07/03135610/NHCC_Superior-Twin-Room-370x276.jpg"
+        ],
+        "hotelDescription": "Experience the beauty of the Chennai coast at Chennai Seaside Resort. The resort offers beachfront views, an outdoor pool, and exquisite dining options."
+      },
+      {
+          "hotelName": "Khazi Resort",
+          "location": "Kerala",
+          "id" : 8,
+          "numberOfRooms": 80,
+          "price": 7000,
+          "imageOfHotel": "https://www.backpackerswanderlust.com/wp-content/uploads/2018/07/DSC_8740.jpg",
+          "similarPicsRelatedToFacilities": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+          ],
+          "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+        },
+        {
+            "hotelName": "Nambiar Resort",
+            "location": "Kerala",
+            "id" : 9,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Syj8oBkSrUw-lYHknUDxySqNGZKnZuJiVg&usqp=CAU",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "BlueMoon hotel",
+            "location": "Kerala",
+            "id" : 10,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHwP1AnI6PE-PZRf_PedBQvmEyic3DaFo7w&usqp=CAU",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },{
+            "hotelName": "ITC Grand Chola",
+            "location": "Chennai",
+            "price": 7000,
+            "imageOfHotel": "https://curlytales.com/wp-content/uploads/2021/01/ITC-grand-chola.jpg",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "The Leela Palace",
+            "location": "Chennai",
+            "id" : 12,
+            "numberOfRooms": 100,
+            "price": 6000,
+            "imageOfHotel": "https://www.samindiatour.com/blog/wp-content/uploads/2022/04/pool-long-dusk.png",
+            "similarPicsRelatedToFacilities": [
+              "https://www.hyderabadzone.com/wp-content/uploads/2022/10/ITC-Kakatiya.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLZ7pSYOPLQYeWHzPXwD1VJNkDRsKebJFRw&usqp=CAU",
+              "https://content.skyscnr.com/available/1394233570/1394233570_WxH.jpg",
+              "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/07/03135610/NHCC_Superior-Twin-Room-370x276.jpg"
+            ],
+            "hotelDescription": "Experience the beauty of the Chennai coast at Chennai Seaside Resort. The resort offers beachfront views, an outdoor pool, and exquisite dining options."
+          },
+          {
+            "hotelName": "Taj Club House",
+            "location": "Chennai",
+            "id" : 13,
+            "numberOfRooms": 100,
+            "price": 6000,
+            "imageOfHotel": "https://pix10.agoda.net/hotelImages/43815/-1/b62af9df057069dddb4f13a674a5bdf9.jpg?ca=9&ce=1&s=702x392",
+            "similarPicsRelatedToFacilities": [
+              "https://www.hyderabadzone.com/wp-content/uploads/2022/10/ITC-Kakatiya.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLZ7pSYOPLQYeWHzPXwD1VJNkDRsKebJFRw&usqp=CAU",
+              "https://content.skyscnr.com/available/1394233570/1394233570_WxH.jpg",
+              "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/07/03135610/NHCC_Superior-Twin-Room-370x276.jpg"
+            ],
+            "hotelDescription": "Experience the beauty of the Chennai coast at Chennai Seaside Resort. The resort offers beachfront views, an outdoor pool, and exquisite dining options."
+          },
+          {
+            "hotelName": "Sheraton Grand Hotel",
+            "location": "Chennai",
+            "id" : 14,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCL8DZCGURgQm9JIYjIpfZtU6XMIAcTyvDnQ&usqp=CAU",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "Citadines OMR",
+            "location": "Chennai",
+            "id" : 15,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2024/01/RAFFLES-JAIPUR-INDIA.jpg?resize=678%2C382&ssl=1",
+            "similarPicsRelatedToFacilities": [
+          "https://www.hyderabadzone.com/wp-content/uploads/2022/10/ITC-Kakatiya.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLZ7pSYOPLQYeWHzPXwD1VJNkDRsKebJFRw&usqp=CAU",
+          "https://content.skyscnr.com/available/1394233570/1394233570_WxH.jpg",
+          "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/120/2019/07/03135610/NHCC_Superior-Twin-Room-370x276.jpg"
+        ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "Falaknama palace",
+            "location": "Hyderabad",
+            "id" : 16,
+            "numberOfRooms": 80,
+            "price": 27000,
+            "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7wNvYeWSWn_RkiOw2k46Rc6hbYmqH0br-w&usqp=CAU",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "Hyatt Regency",
+            "location": "Hyderabad",
+            "id" : 17,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fjboihpsF6rnh9gvr4L9on4dbxRmGcGGHw&usqp=CAU",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "Shahjahan Regency",
+            "location": "Delhi",
+            "id" : 18,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fjboihpsF6rnh9gvr4L9on4dbxRmGcGGHw&usqp=CAU",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "Rajadhani ford",
+            "location": "Delhi",
+            "id" : 19,
+            "numberOfRooms": 80,
+            "price": 7000,
+            "imageOfHotel": "https://www.backpackerswanderlust.com/wp-content/uploads/2018/07/DSC_8740.jpg",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIAG0GxtBV3l6L0x6GtTneDq80xZld4stMA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhfoMQhqQTbPUIoCoWQ7sQW4vEIsws8SQtA&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnt-sTW3UaR1s8M7l3_DXGS-pikoghXw8VUw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUx5GPdLvSG70W7u8zQcpm4u42L8zyZuj3w&usqp=CAU"
+            ],
+            "hotelDescription": "Nestled along the serene backwaters of Kerala, Kerala Backwater Retreat is a tranquil escape. Guests can enjoy traditional Kerala cuisine, ayurvedic treatments, and houseboat tours."
+          },
+          {
+            "hotelName": "ITC Kohinoor-Delhi",
+            "location": "Delhi",
+            "id" : 20,
+            "numberOfRooms": 150,
+            "price": 5000,
+            "imageOfHotel": "https://www.shapoorjipallonji.com/assets/Desktop/Projects/640x640/itc-kohenur-640x640.jpg",
+            "similarPicsRelatedToFacilities": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SbxwnYVSHLyDhCOiv6Fxq-XwfkSStTAMFw&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqUi-xBRkg0SRtRm6h90JxESMnjh43_TiRQ&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjElLjyMuNiX4nmJ4oZK7b8l-CK1neM79X6Q&usqp=CAU",
+              "https://cdn.sanity.io/images/ocl5w36p/production/a444edc3996a69d942a0750048f0ef0528cf4685-3840x1861.jpg?w=480&auto=format&dpr=2"
+            ],
+            "hotelDescription": "Located in the heart of Hyderabad, the Hyderabad Grand Hotel offers luxurious accommodations with modern amenities. Guests can enjoy an on-site restaurant, spa, and conference facilities."
+          }
+          
+    ]
+  

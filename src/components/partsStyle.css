@@ -1,0 +1,148 @@
+/***************FormStyle**************/
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+} 
+
+/***************HeadBarOne*******************/
+
+.mainHeadBarOne{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+/*****************headerBarTwo******************************/
+
+.leftBox{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+}
+.userBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.buttonBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.buttonBox a{
+    height: 40px;
+    width: 100px;
+    border-radius: 25px;
+    text-decoration: none;
+    border: 1px solid blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+.footerOne{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textContainer{
+    width: 60%;
+}
+
+/*************************FooterStyles*************************/
+
+.textContainer1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.qrStyle{
+    height: 50px;
+    width: 50px;
+}
+
+.playStoreBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.playStoreStyle{
+    height: 100px;
+    width: 200px;
+}
+
+.playStore{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 15px;
+}
+.ListContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.listStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.ListContainer ul{
+  list-style: none;
+}
+
+.paymentBox{
+    width: 30%;
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+    margin: 20px;
+
+}
+
+.paymentApp{
+    height: 80px;
+    width: 90px;
+}
+
+.socialLogo{
+    height: 30px;
+    width: 50px;
+}
+
+.lastInput{
+    height: 40px;
+    width: 220px;
+    border-radius: 10px;
+}
+.inputButton{
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+}
+
+.lastFooterBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+}
